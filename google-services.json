@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391706072063",
+    "project_id": "vbstar-5f54b",
+    "storage_bucket": "vbstar-5f54b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391706072063:android:ca034d2ee93312ae1b8dca",
+        "android_client_info": {
+          "package_name": "com.example.ecomvb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391706072063-bueij5jof0tg9veq7r9nl99rrkeka2ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqD6dOd9wEZ4BZv8JHdtdYk1zUIfiFQH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391706072063-bueij5jof0tg9veq7r9nl99rrkeka2ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
